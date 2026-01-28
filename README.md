@@ -94,6 +94,6 @@ The final output is a dynamic allocation strategy that outperforms static benchm
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <sub>Built with ❤️ for Quantitative Finance.</sub>
-</div>
+</div> -->
